@@ -1,0 +1,26 @@
+{
+  "name": "testing-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadysalah/testing-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadysalah/testing-git/issues"
+  },
+  "homepage": "https://github.com/ahmadysalah/testing-git#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.9"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
